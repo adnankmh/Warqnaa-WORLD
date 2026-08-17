@@ -1,0 +1,13 @@
+docs/ar/releases/current/CI_HOTFIX_V200_R2_AR.md
+docs/ar/releases/current/START_HERE_V200_AR.md
+docs/ar/releases/current/V200_MERGE_SOURCE_MAP_AR.md
+docs/ar/reports/current/QUALITY_REPORT_V200_AR.md
+README_HOTFIX_AR.txt
+releases/manifests/current/RELEASE_MANIFEST_V200.json
+APPLY_AND_TEST_FIX_WINDOWS.bat
+scripts/windows/current/CHECK_V200_WINDOWS.bat
+scripts/windows/current/START_WARQNA_V200_PORT_8007.bat
+scripts/windows/current/START_WARQNA_V200_PORT_8008.bat
+scripts/windows/current/START_WARQNA_V200_PORT_8009.bat
+scripts/windows/current/START_WARQNA_V200_PORT_8010.bat
+scripts/windows/current/START_WARQNA_V200_WINDOWS.bat
